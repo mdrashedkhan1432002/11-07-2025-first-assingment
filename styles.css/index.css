@@ -196,10 +196,6 @@ li{
   border: none;
   
 }
-.button:hover{
-  background-color: black;
-  color: aqua;
-}
 footer{
   background-color: #f5f8fa;
   height: 428px;
@@ -220,6 +216,11 @@ footer{
     
   }
   .footer-side{
-    margin: 400px;
-   
+    margin: 400px; 
+  }
+  .button:hover{
+    color: bisque;
+  }
+  .singup-button:hover{
+    background-color: rgb(255, 127, 127);
   }
