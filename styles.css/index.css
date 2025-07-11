@@ -106,11 +106,16 @@ font-size: 30px;
   margin-top: 50px;
   font-size:xx-large;
 }
-.Reviewer{
+
+.reviewimage{
   border-radius: 10px;
+  display: flex;
+}
+.nameofreview{
+  display: flex;
 }
   
-}
+
 .public-review{
   width: 1000px;
   height: 250px ;
@@ -228,4 +233,8 @@ footer{
   
   .singup-button:hover{
     background-color: rgb(255, 127, 127);
+  }
+
+  .image-touch{
+    border-radius: 10px;
   }
