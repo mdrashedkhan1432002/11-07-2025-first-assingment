@@ -1,0 +1,189 @@
+
+.open-sans-normal> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+    
+}
+.inter-normal> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.singup-button{
+  background-color: blue;
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+nav{
+  background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
+  height: 698px;
+  width: 1440px;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+.heading{
+  text-align: center;
+  padding-top: 130px;
+  margin: 39px 267px  ;
+  height: 237px;
+  width: 905px;
+  font-size: 50px;
+  
+}
+.top{
+  margin: 0 150px;
+}
+.stay{
+  margin-top: 0;
+  margin-bottom: 100px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 10px;
+  padding: 10px 20px;
+  border: none;
+}
+.logo{
+  color: blue;
+  font-size:xx-large;
+
+}
+.Action-section{
+  display: flex;
+  justify-content: space-between;
+  padding: 116px 150px ;
+  margin-right: 50px ;
+  width: 1140px;
+  height: 328px;
+}
+.picture{
+  border-radius: 40px;
+}
+.h2{margin-top: 30px;
+font-size: 30px;
+}
+.preview{
+  background-color: blue;
+  color: aliceblue;
+  padding: 10px 20px ;
+  border: none;
+  border-radius: 15px ;
+}
+.deshboard{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+ 
+}
+.Users{
+  text-align: center;
+  background-color: #94cbf0 ;
+  width: 1100px;
+  height: 250px;
+  margin-left: 150px ;
+  /* margin-top: 50px; */
+  border-radius: 20px;
+  padding-bottom: 20px;
+}
+.heads{
+  font-size: 30px;
+  padding-top: 30px;
+}
+.user-color{
+  color: blue ;
+  font-size: 50px;
+}
+.third-heads{
+  text-align: center;
+  margin-top: 50px;
+  font-size:xx-large;
+}
+.Reviewer{
+  border-radius: 10px;
+}
+  
+}
+.public-review{
+  width: 1000px;
+  height: 250px ;
+  
+}
+.first-reviwer{
+  background-color:whitesmoke;
+  width: 300px;
+  padding-left: 10px;
+  margin-left: 100px;
+  
+}
+.page-review{
+  display: flex;
+  
+}
+.page-follower{
+  display: flex;
+  width: 1220px;
+  margin-left: 40px;
+  
+}
+.image-redius{
+  border-radius: 50px;
+}
+.fourth-section{
+  text-align: center;
+  background-color: aliceblue;
+  width: 1140px;
+  height: 600px;
+  margin-left: 140px;
+  border-radius: 10px;
+}
+.image{
+  border-radius: 20px;
+  width: 700px;
+  height: 340px;
+}
+.free-button{
+  background-color:blue;
+  color: azure;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.focus-h1{
+  font-size: 30px;
+  padding-top: 40px;
+}
+body{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.text-section{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 140px;
+  padding-top: 60px;
+}
+.get-in{
+  font-size: 110px;
+}
+body{ 
+  background-color: #e7f4fc;
+}
+.label-input{
+  size: 170px;
+  
+}
+input{
+  size: 50px;
+}
+li{
+  font-size: xx-large;
+}
