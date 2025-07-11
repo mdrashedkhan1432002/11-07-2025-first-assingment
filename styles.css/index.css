@@ -187,3 +187,39 @@ input{
 li{
   font-size: xx-large;
 }
+.touch-button{
+  size: 500px;
+  border-radius: 10px;
+  padding: 10px 87px;
+  background-color: blue;
+  color: #f5f8fa;
+  border: none;
+  
+}
+.button:hover{
+  background-color: black;
+  color: aqua;
+}
+footer{
+  background-color: #f5f8fa;
+  height: 428px;
+  width:1440px ;
+  /* padding-top: 5px;
+  margin-top: 5px; */
+  text-align: center;
+}
+.foot-logo{
+  text-align: center;
+  color: blue;
+  padding-top: 150px;
+  font-size:78px;;
+  }
+  .foot-icon{
+    display: flex;
+    justify-content:space-around
+    
+  }
+  .footer-side{
+    margin: 400px;
+   
+  }
